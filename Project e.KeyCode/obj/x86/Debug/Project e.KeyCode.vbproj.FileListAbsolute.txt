@@ -1,0 +1,9 @@
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\bin\Debug\Project e.KeyCode.exe
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\bin\Debug\Project e.KeyCode.pdb
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\bin\Debug\Project e.KeyCode.xml
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\obj\x86\Debug\Project_e.KeyCode.Form1.resources
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\obj\x86\Debug\Project_e.KeyCode.Resources.resources
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\obj\x86\Debug\Project e.KeyCode.vbproj.GenerateResource.Cache
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\obj\x86\Debug\Project e.KeyCode.exe
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\obj\x86\Debug\Project e.KeyCode.xml
+C:\Users\Chrstn Clfs\Desktop\VB.NET Files\Project e.KeyCode\Project e.KeyCode\obj\x86\Debug\Project e.KeyCode.pdb
